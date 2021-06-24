@@ -1,2 +1,2 @@
 # kickstarter-analysis
-repo for holding code from excel module in bootcamp
+repository for holding code from unit 1 excel module in bootcamp
